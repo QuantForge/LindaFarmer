@@ -44,7 +44,7 @@ LindaFarmer is an Agritech Fintech solution aimed at empowering smallholder farm
 ### Running the Application
 1. **Start the frontend application**:
     ```bash
-    expo start
+    npx expo start
     ```
 
 ## Project Structure
@@ -64,4 +64,4 @@ For any questions or inquiries, please contact:
 
 - **Johnstone Gikenye**
   - [GitHub](https://github.com/gikenye)
-  - Email: joegikenye@gmail.com
+  - Email: quantforg@gmail.com
